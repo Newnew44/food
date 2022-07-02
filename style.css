@@ -1,0 +1,94 @@
+.two {
+    width: 1350px;
+    height:200px;
+    border: 3px;
+    padding-top: 30px;
+    background  :linear-gradient(to bottom left, #99CC00 32%, #CCCC99 100%);
+}
+
+.one {
+    width: 1350px;
+    height:200px;
+    border: 3px;
+    padding-top: 30px;
+    background-color:rgba(255,40,10,0.5); 
+}
+
+.header{
+padding: 30px;
+text-align: center;
+background-color:rgba(243, 252, 249, 0.5);
+}
+body{background-color:rgba(214, 246, 252, 0.5);
+
+}
+
+.nav-link01{
+    color: bisque;
+    position: absolute;
+    left: 1250px;
+    top: 210px;
+}
+
+.N1{
+    left:1140px;
+    position: fixed;
+    top: 200px;
+    color: rgba(243, 252, 249, 0.5);
+}
+
+.bgcolor{
+    color: blue;
+}
+
+.N2{
+    left:1180px;
+    position: fixed;
+    top: 200px;
+    color: rgba(243, 252, 249, 0.5);
+}
+
+.nav-link02{
+    color: bisque;
+    position: absolute;
+    left: 1250px;
+    top: 210px;
+}
+
+.N3{
+    left:1170px;
+    position: fixed;
+    top: 197px;
+    color: rgba(243, 252, 249, 0.5);
+}
+
+.nav-link03{
+    color: bisque;
+    position: absolute;
+    left: 1250px;
+    top: 207px;
+}
+
+.N4{
+    left:1200px;
+    position: fixed;
+    top: 200px;
+    color: rgba(243, 252, 249, 0.5);
+}
+
+.nav-link04{
+    color: bisque;
+    position: absolute;
+    left: 1250px;
+    top: 210px;
+}
+
+.I1{
+    margin-top: 50px;
+}
+
+.L1{
+    margin-top: 30px;
+}
+
+
